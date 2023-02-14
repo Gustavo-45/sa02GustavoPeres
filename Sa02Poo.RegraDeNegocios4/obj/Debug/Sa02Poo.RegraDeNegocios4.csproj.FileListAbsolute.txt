@@ -1,0 +1,6 @@
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\bin\Debug\Sa02Poo.RegraDeNegocios4.dll
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\bin\Debug\Sa02Poo.RegraDeNegocios4.pdb
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\obj\Debug\Sa02Poo.RegraDeNegocios4.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\obj\Debug\Sa02Poo.RegraDeNegocios4.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\obj\Debug\Sa02Poo.RegraDeNegocios4.dll
+C:\Users\Gusta\source\repos\Sa02Poo\Sa02Poo.RegraDeNegocios4\obj\Debug\Sa02Poo.RegraDeNegocios4.pdb
